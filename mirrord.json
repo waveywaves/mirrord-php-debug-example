@@ -1,0 +1,7 @@
+{
+    "target": "deployment/php-guestbook",
+    "feature": {
+      "env": true,
+      "network": true
+    }
+  }
