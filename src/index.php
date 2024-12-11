@@ -78,7 +78,7 @@ $entries = getEntries();
 <body>
     <div class="header">
         <img src="images/mirrord.svg" alt="mirrord logo">
-        <h1>PHP Guestbook with mirrord</h1>
+        <h1>mirrord Guestbook</h1>
     </div>
 
     <div class="entry-form">
