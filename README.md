@@ -38,10 +38,10 @@ kubectl create -f ./kube
 3. Debug with mirrord:
 
 ```bash
-mirrord exec -t deployment/php-app php -S localhost:8000
+mirrord exec -t deployment/php-app php -S localhost:8080
 ```
 
-The application will be available at http://localhost:8000
+The application will be available at http://localhost:8080
 
 ## Architecture
 
